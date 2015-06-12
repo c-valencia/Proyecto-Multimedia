@@ -9,10 +9,10 @@
     <class>Logica.Persona</class>
     <class>Logica.RespuestaXExamen</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/multimedia"/>
-      <property name="javax.persistence.jdbc.password" value="multimedia"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://pgsql:5432/calexvt"/>
+      <property name="javax.persistence.jdbc.password" value="calexvt"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-      <property name="javax.persistence.jdbc.user" value="multimedia"/>
+      <property name="javax.persistence.jdbc.user" value="calexvt"/>
     </properties>
   </persistence-unit>
 </persistence>
